@@ -15,8 +15,9 @@ This application provides a command-line interface to generate RSA keys, encrypt
 
 - Python 3.6 or above
 - cryptography library (version 3.4.7 or above)
-- pyperclip library (version 1.8.2 or above)
-
 ## Installation
 
-1. Clone this repository:
+1. Clone this repository:https://github.com/AdityaVasu/krishna.git
+
+2. Install the required dependencies:
+
