@@ -17,7 +17,7 @@ This application provides a command-line interface to generate RSA keys, encrypt
 - cryptography library (version 3.4.7 or above)
 ## Installation
 
-1. Clone this repository:https://github.com/AdityaVasu/krishna.git
+1. Clone this repository:https://github.com/AdityaVasu/encryption-and-decryption.git
 
-2. Install the required dependencies:
+2. Install the required dependencies : pip install -r requirement.txt 
 
